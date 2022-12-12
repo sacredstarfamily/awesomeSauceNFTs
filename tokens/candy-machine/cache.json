@@ -1,0 +1,97 @@
+{
+  "program": {
+    "candyMachine": "DJD2EnkBN22dPPoZD8M6H4J2477GSDTcXGXhF5bpVHS9",
+    "candyMachineCreator": "9Q7PS1fhJoasmGVGDzd9WHuacnAT67FQjGidev5FV9y1",
+    "collectionMint": "5bbEUSzvUNUETPhWzSD5j8vQikeCSJi6xcsfywQvU5g8"
+  },
+  "items": {
+    "-1": {
+      "name": "Awesomesauce NFT Collection",
+      "image_hash": "6671e65478dc5c3d269ba44b70808757442cfe37cd19850289e8e01255e42c95",
+      "image_link": "https://arweave.net/ikO0PM0vlF1J7NnZ9_euiDRC--aItPR7xcdvOpeES1k?ext=png",
+      "metadata_hash": "0faf91488ada2054278e1610286281ba5ac46958b6c79e099527dbec03f63d18",
+      "metadata_link": "https://arweave.net/Q_NPbj3eiGzJ140dTJSSewh5V3Cdhl50KQ1kkX-n3dg",
+      "onChain": true
+    },
+    "0": {
+      "name": "Awesomesauce NFT #1",
+      "image_hash": "573fd04abbb7f60f9570101c73d46519e44a587032126e10a56937b85a3cd58a",
+      "image_link": "https://arweave.net/5IDHPBVQm-f6T8JQhKKZ9v3q-HTPF9S0wA07cXrhkaY?ext=png",
+      "metadata_hash": "ffe0eccad96565566cea758ffd4ea7a3b0d787e8d9c5c55a1426a296f6aca37f",
+      "metadata_link": "https://arweave.net/6f9XgrtjQw_WpGESli_GvAVi827MiyPlFe7Aiem2H3c",
+      "onChain": true
+    },
+    "1": {
+      "name": "Awesomesauce NFT #1",
+      "image_hash": "573fd04abbb7f60f9570101c73d46519e44a587032126e10a56937b85a3cd58a",
+      "image_link": "https://arweave.net/VOk-poZf1dNe4LgqLI17BHvdBVyupFlvESu0kQGZiqY?ext=png",
+      "metadata_hash": "8d8268afe352c81c8eaf04a67270bde64ef52a451739e8c3b69ef855d90ec7e1",
+      "metadata_link": "https://arweave.net/xLM0CF9HEOLw5Kzswm5FGNUq1dqBoZXl1CXPLbg6XPs",
+      "onChain": true
+    },
+    "2": {
+      "name": "Awesomesauce NFT #1",
+      "image_hash": "573fd04abbb7f60f9570101c73d46519e44a587032126e10a56937b85a3cd58a",
+      "image_link": "https://arweave.net/V13h8GFyEQ25i04hhIcqXXjFw_dVMJec_vlPOVF4wFw?ext=png",
+      "metadata_hash": "6fdbb7ec778c167e1ab7cd9081f3d04fc9bfbba9d4f0f657a5fdf4757aa33f4c",
+      "metadata_link": "https://arweave.net/A0wOUmmSeI3uSiNCY_CcLaVZWba_VacUqCMqncm4HS8",
+      "onChain": true
+    },
+    "3": {
+      "name": "Awesomesauce NFT #1",
+      "image_hash": "573fd04abbb7f60f9570101c73d46519e44a587032126e10a56937b85a3cd58a",
+      "image_link": "https://arweave.net/jqhoZhKF4xKFVsrNYgMG5cSNX_xK6Az7vyIzVjaNG-s?ext=png",
+      "metadata_hash": "2ba9df296eb50ff2db0b6be9083705e4e344af0b98f182aaef5a5f058d94d2a8",
+      "metadata_link": "https://arweave.net/gWjAc5c7L99-tQo1PHxZtoHbSLcfU8hHHSyg5F8_MD8",
+      "onChain": true
+    },
+    "4": {
+      "name": "Awesomesauce NFT #1",
+      "image_hash": "573fd04abbb7f60f9570101c73d46519e44a587032126e10a56937b85a3cd58a",
+      "image_link": "https://arweave.net/nyz2xOKPTTgjlnN9_rsC-anqeSo13El4gDS_zo4TQe8?ext=png",
+      "metadata_hash": "c20734d059aaecca596ee8beae41f00ea7575a4ce970d6b1c0b20aad3370a4db",
+      "metadata_link": "https://arweave.net/_DL9yDKaebvAmNQsuWJJJheBHA66kLS1-3OqQQNqlks",
+      "onChain": true
+    },
+    "5": {
+      "name": "Awesomesauce NFT #1",
+      "image_hash": "573fd04abbb7f60f9570101c73d46519e44a587032126e10a56937b85a3cd58a",
+      "image_link": "https://arweave.net/cmfsB6EtakFGfYZ8IZ_aUqRbeDXQl4h-dmWn7oZaAWY?ext=png",
+      "metadata_hash": "3535441a88ea154c19055490d881179789e3c98f9c6de0be2be6bf2131d33c79",
+      "metadata_link": "https://arweave.net/grc8UH3WiMpaoFsYZoQTQLLkSrDvU853FOLQBEAEKuw",
+      "onChain": true
+    },
+    "6": {
+      "name": "Awesomesauce NFT #6",
+      "image_hash": "573fd04abbb7f60f9570101c73d46519e44a587032126e10a56937b85a3cd58a",
+      "image_link": "https://arweave.net/jD3ULub679skMY6pEW9KNPUCITEc7i7Ym3q7LAu-GGg?ext=png",
+      "metadata_hash": "8894ee93d6db037b62b0a328ab1c8de47eb9d94595692627380641eb290fc4ec",
+      "metadata_link": "https://arweave.net/uy3GmyjT9xcgPC7iRWvwRhx0SD8UX5f5ynpL_wBOhdA",
+      "onChain": true
+    },
+    "7": {
+      "name": "Awesomesauce NFT #7",
+      "image_hash": "573fd04abbb7f60f9570101c73d46519e44a587032126e10a56937b85a3cd58a",
+      "image_link": "https://arweave.net/9pIExJ6Simwo7sZPnl8X2VoGqIIXdJcqAkjKWKBm3BE?ext=png",
+      "metadata_hash": "6762c3e55b4627a77c8bbc98efd96c175e8f20a880441a2073aeb2ff3145270a",
+      "metadata_link": "https://arweave.net/1mH1a3u9luh0AeAGe9qeTNs0ppfKfbrPeaju5T62K6Y",
+      "onChain": true
+    },
+    "8": {
+      "name": "Awesomesauce NFT #8",
+      "image_hash": "573fd04abbb7f60f9570101c73d46519e44a587032126e10a56937b85a3cd58a",
+      "image_link": "https://arweave.net/Q67ab4JaJDpJGBdF5NQc1ZQi5LuTiI08RBt8M-7r3Lw?ext=png",
+      "metadata_hash": "748971d6a323fbb4be66f0390d6366888a2a036f071ac9b14036c215e80469d3",
+      "metadata_link": "https://arweave.net/--B3HLoBIj4adKCMPCoJdJjyQXu3oFgUUP73bM9tA2w",
+      "onChain": true
+    },
+    "9": {
+      "name": "Awesomesauce NFT #9",
+      "image_hash": "573fd04abbb7f60f9570101c73d46519e44a587032126e10a56937b85a3cd58a",
+      "image_link": "https://arweave.net/3R-ermS6F_OB0LLxlt1V1yGvCCj80xq0ywvodUFWaOs?ext=png",
+      "metadata_hash": "861d1d5ff9c58bfea7d2bf7d89e089c8e344d3a066cd68fdcf14076d5ed5e53e",
+      "metadata_link": "https://arweave.net/2DYlArPegzbfnlF2-BeLfeVG1n_Xi2i3T3zrsRvVhDo",
+      "onChain": true
+    }
+  }
+}
